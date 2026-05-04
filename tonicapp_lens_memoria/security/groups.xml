@@ -1,0 +1,9 @@
+<odoo>
+  <data noupdate="0">
+    <!-- Local fallback group to avoid base.group_user loading order issues -->
+    <record id="group_lens_memoria_user" model="res.groups">
+      <field name="name">Lens Memoria: User</field>
+      <field name="category_id" ref="base.module_category_hidden"/>
+    </record>
+  </data>
+</odoo>

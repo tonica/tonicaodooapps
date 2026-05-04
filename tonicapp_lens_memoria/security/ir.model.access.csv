@@ -1,4 +1,4 @@
 id,name,model_id:id,group_id,perm_read,perm_write,perm_create,perm_unlink
-access_lens_memory,access_lens_memory,model_lens_memory,base.group_user,1,1,1,1
-access_lens_category,access_lens_category,model_lens_category,base.group_user,1,1,1,1
-access_lens_tag,access_lens_tag,model_lens_tag,base.group_user,1,1,1,1
+access_lens_memory,access_lens_memory,model_lens_memory,tonicapp_lens_memoria.group_lens_memoria_user,1,1,1,1
+access_lens_category,access_lens_category,model_lens_category,tonicapp_lens_memoria.group_lens_memoria_user,1,1,1,1
+access_lens_tag,access_lens_tag,model_lens_tag,tonicapp_lens_memoria.group_lens_memoria_user,1,1,1,1

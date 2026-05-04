@@ -8,6 +8,7 @@
     'website': '',
     'depends': ['base'],
     'data': [
+        'security/groups.xml',
         'security/ir.model.access.csv',
         'views/lens_memory_views.xml',
     ],
